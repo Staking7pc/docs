@@ -140,7 +140,6 @@ querying the node's state and broadcasting transactions on the
 Celestia network. The default port is 26657.
 
 - `public-celestia-mocha4-consensus.numia.xyz:26657`
-- `celestia-testnet.brightlystake.com`
 - `rpc-celestia-mocha.trusted-point.com`
 - `rpc-celestia-testnet-01.stakeflow.io`
 - `mocha.celestia.rpc.cumulo.me`
@@ -162,7 +161,6 @@ The default port is 1317.
 
 - `https://api-mocha.pops.one`
 - `https://api.celestia-mocha.com/`
-- `https://celestia-testnet.brightlystake.com/api`
 - `https://api-celestia-mocha.trusted-point.com`
 - `https://api-celestia-testnet-01.stakeflow.io/`
 - `https://mocha.api.cumulo.me/`
@@ -187,7 +185,6 @@ broadcast transactions.
 - `grpc.celestia-mocha.com:443`
 - `full.consensus.{{constants.mochaChainId}}.celestia-mocha.com:9090`
 - `consensus-full-{{constants.mochaChainId}}.celestia-mocha.com:9090`
-- `celestia-testnet.brightlystake.com:9390`
 - `grpc-celestia-mocha.trusted-point.com:9099`
 - `grpc-celestia-testnet-01.stakeflow.io:16002`
 - `mocha.grpc.cumulo.me:443`
